@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculateTax</string>
+    <string name="first">Tax Amount Calculator</string>
+    <string name="second">Enter Your Salary:</string>
+    <string name="hint1">Number only accepted!!</string>
+    <string name="thrid">Your Yearly Tax amount:</string>
+    <string name="btn">Calculate</string>
+
+</resources>
